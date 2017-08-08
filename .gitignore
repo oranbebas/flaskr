@@ -1,0 +1,5 @@
+flaskr/__pycache__
+flaskr/bin/
+flaskr/include/
+flaskr/lib/
+flaskr/flaskr.db
